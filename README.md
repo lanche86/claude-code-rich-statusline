@@ -1,6 +1,6 @@
-# claude-code-rich-statusline
+# Rich Statusline for Claude Code
 
-A custom statusline for [Claude Code](https://docs.anthropic.com/claude/docs/claude-code) that shows:
+A drop-in [Claude Code](https://docs.anthropic.com/claude/docs/claude-code) statusline that shows:
 
 ```
 Opus 4.7 (1M context) | development | Context 17% | Session 39% | Resets in 2h 9m
